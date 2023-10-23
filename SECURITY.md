@@ -16,5 +16,5 @@ We will provide security related information such as a threat model, considerati
 
 ## BugBounty Program
 Pagoda uses HackenProof as a conduit for reporting defects and vulnerabilities as well.  To report a vulnerablity that you believe you have discovered in the Near or Pagoda platform, please use one of the following programs to report it:
-- NEAR Protocol:  [https://hackenproof.com/near/near-protocol]
-- NEAR Web (Medium):  [https://hackenproof.com/near/near-web-medium]
+- NEAR Protocol:  (https://hackenproof.com/near/near-protocol)
+- NEAR Web (Medium):  (https://hackenproof.com/near/near-web-medium)
